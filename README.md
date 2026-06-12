@@ -31,4 +31,4 @@ This is an RP2040 ruler that implements wifi, bluetooth, BLE along with a 4MB Fl
 ![Render (F)](assets/frender.png)
 ![Render (B)](assets/brender.png)
 
-Since PCB Fabrication varies by manufacturer, I have not included Gerbers, a CPL or a BOM file. You may download the PCB and create one as per your specification.
+The production files for JLCPCB are included in `PCB/production`
